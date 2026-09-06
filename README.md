@@ -167,10 +167,6 @@ DoorAlert was created as a practical project for learning and experimenting with
 * Python programming
 * Automated alerts
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 Developed as a Python computer vision project using YOLO for real-time person detection and automated alerts.
